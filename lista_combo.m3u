@@ -1,731 +1,796 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ACCION HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/954
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ACCION HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/955
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ACCION SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2508
-#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="MOVISTAR COMEDIA HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR COMEDIA HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/956
-#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="MOVISTAR COMEDIA HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR COMEDIA HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/957
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/958
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/959
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2504
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/966
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/967
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2507
-#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ESTRENOS HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4852
-#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ESTRENOS HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4853
-#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ESTRENOS SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4854
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="MOVISTAR ORIGINALES HD 1080p" tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ORIGINALES HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/960
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="MOVISTAR ORIGINALES HD 720p" tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ORIGINALES HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/961
-#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS HD 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/250px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR HITS HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3590
-#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS HD 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/250px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR HITS HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3588
-#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/250px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR HITS SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3589
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLASICOS HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/962
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLASICOS HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/963
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLÁSCIOS SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLÁSCIOS SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2491
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE HD 1080p" tvg-logo="https://images2.imgbox.com/e6/0d/BtMT1cCM_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/968
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE HD 720p" tvg-logo="https://images2.imgbox.com/e6/0d/BtMT1cCM_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/969
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2505
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="ESPAÑA CINE - SERIES",SOMOS HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/950
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="ESPAÑA CINE - SERIES",SOMOS HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/951
-#EXTINF:-1 tvg-id="Primera Federación" tvg-name="1° FEDERACION HD 1080p (Movistar+)" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MCOPA.png" group-title="ESPAÑA DEPORTES",1° FEDERACION HD 1080p (Movistar+)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4528
-#EXTINF:-1 tvg-id="" tvg-name="1° FEDERACION HD 1080P (LaLiga+)" tvg-logo="" group-title="ESPAÑA DEPORTES",1° FEDERACION HD 1080P (LaLiga+)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4890
-#EXTINF:-1 tvg-id="Primera Federación" tvg-name="1° FEDERACION HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MCOPA.png" group-title="ESPAÑA DEPORTES",1° FEDERACION HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4529
-#EXTINF:-1 tvg-id="Primera Federación" tvg-name="1° FEDERACION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MCOPA.png" group-title="ESPAÑA DEPORTES",1° FEDERACION SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4530
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ COPA DEL REY Hevc" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/3_rNaGVveDMu-P0mL5MkiA_64x64.png" group-title="ESPAÑA DEPORTES",M+ COPA DEL REY Hevc
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3586
-#EXTINF:-1 tvg-id="" tvg-name="M+ COPA DEL REY HD 1080p" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/3_rNaGVveDMu-P0mL5MkiA_64x64.png" group-title="ESPAÑA DEPORTES",M+ COPA DEL REY HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/835
-#EXTINF:-1 tvg-id="" tvg-name="M+ COPA DEL REY 720p" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/3_rNaGVveDMu-P0mL5MkiA_64x64.png" group-title="ESPAÑA DEPORTES",M+ COPA DEL REY 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/836
-#EXTINF:-1 tvg-id="" tvg-name="M+ COPA DEL REY SD" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/3_rNaGVveDMu-P0mL5MkiA_64x64.png" group-title="ESPAÑA DEPORTES",M+ COPA DEL REY SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/837
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA DEPORTES",MOVISTAR PLUS+ HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/794
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS+ HD 720p" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA DEPORTES",MOVISTAR PLUS+ HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/795
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="MOVISTAR PLUS+ SD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA DEPORTES",MOVISTAR PLUS+ SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4531
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA DEPORTES",MOVISTAR PLUS+ HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/796
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="MOVISTAR PLUS+ 2 HD 720p" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA DEPORTES",MOVISTAR PLUS+ 2 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/797
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="MOVISTAR PLUS+ 2 SD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA DEPORTES",MOVISTAR PLUS+ 2 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4532
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS Hevc" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="ESPAÑA DEPORTES",#VAMOS Hevc
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/789
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS HD 1080p" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="ESPAÑA DEPORTES",#VAMOS HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/790
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD 1080p (Fibra)" tvg-logo="" group-title="ESPAÑA DEPORTES",#VAMOS HD 1080p (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2410
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD 1080p OP1" tvg-logo="" group-title="ESPAÑA DEPORTES",#VAMOS HD 1080p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2412
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS HD 720p" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="ESPAÑA DEPORTES",#VAMOS HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/791
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS SD" tvg-logo="" group-title="ESPAÑA DEPORTES",#VAMOS SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2411
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="ELLAS #V HD 1080p" tvg-logo="https://images2.imgbox.com/82/a7/uknxkseK_o.png" group-title="ESPAÑA DEPORTES",ELLAS #V HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/792
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="ELLAS #V HD 720p" tvg-logo="https://images2.imgbox.com/82/a7/uknxkseK_o.png" group-title="ESPAÑA DEPORTES",ELLAS #V HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/793
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LA LIGA Hevc" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA DEPORTES",M+ LA LIGA Hevc
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/798
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LA LIGA HD 1080p RAW" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA HD 1080p RAW
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3543
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LA LIGA HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA DEPORTES",M+ LA LIGA HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/799
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LA LIGA HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA DEPORTES",M+ LA LIGA HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/800
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HDR (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA HDR (Solo Eventos)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4891
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 1080p (opcion1)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA HD 1080p (opcion1)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2404
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 1080p (opcion2)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA HD 1080p (opcion2)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2408
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 1080p (opcion3)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA HD 1080p (opcion3)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2406
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 1080p (Fibra)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA HD 1080p (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2409
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 1080p (satelite)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA HD 1080p (satelite)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2407
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA HD 720p (opcion1)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA HD 720p (opcion1)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2405
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LA LIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA DEPORTES",M+ LA LIGA SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/801
-#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="M+ LA LIGA 2 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA DEPORTES",M+ LA LIGA 2 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/802
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 2 HD 1080p (Fibra)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 2 HD 1080p (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2414
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 2 HD 720p (Orange TV)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 2 HD 720p (Orange TV)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2413
-#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="M+ LA LIGA 2 SD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ESPAÑA DEPORTES",M+ LA LIGA 2 SD 
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/803
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 3 HD 1080p (solo evento)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ESPAÑA DEPORTES",M+ LA LIGA 3 HD 1080p (solo evento)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/804
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 3 HD 1080p (Fibra)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 3 HD 1080p (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2415
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 4 HD 1080p (solo evento)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 4 HD 1080p (solo evento)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2416
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 4 HD 720p (solo evento)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 4 HD 720p (solo evento)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2417
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 4 SD (solo evento)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ESPAÑA DEPORTES",M+ LA LIGA 4 SD (solo evento)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/805
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 5 HD 1080p OP1 (solo evento)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 5 HD 1080p OP1 (solo evento)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2418
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 5 HD 720p (solo evento)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LA LIGA 5 HD 720p (solo evento)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2419
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",LA LIGA TV BAR HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2602
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD 720p" tvg-logo="http://cms.bimbotv.net:2052/images/logos/laligatvbar.png" group-title="ESPAÑA DEPORTES",LA LIGA TV BAR HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2606
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR SD" tvg-logo="" group-title="ESPAÑA DEPORTES",LA LIGA TV BAR SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2605
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR 1 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",LA LIGA TV BAR 1 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2603
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR 2 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",LA LIGA TV BAR 2 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2604
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA TV HYPERMOTION HD 1080p" tvg-logo="https://images2.imgbox.com/fb/8f/jDwMezzI_o.png" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/823
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA TV HYPERMOTION HD 720p" tvg-logo="https://images2.imgbox.com/fb/8f/jDwMezzI_o.png" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/824
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA TV HYPERMOTION SD" tvg-logo="https://images2.imgbox.com/fb/8f/jDwMezzI_o.png" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/825
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA TV HYPERMOTION 2 HD 1080p" tvg-logo="https://images2.imgbox.com/d2/a6/tX9M4LeG_o.png" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 2 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/826
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA TV HYPERMOTION 2 HD 720p" tvg-logo="https://images2.imgbox.com/d2/a6/tX9M4LeG_o.png" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 2 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/827
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA TV HYPERMOTION 2 SD" tvg-logo="https://images2.imgbox.com/d2/a6/tX9M4LeG_o.png" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 2 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/828
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LALIGA TV HYPERMOTION 3 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 3 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/829
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LALIGA TV HYPERMOTION 3 HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 3 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/830
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LALIGA TV HYPERMOTION 3 SD" tvg-logo="http://newmpd2.casacam.net:9292/stream/amazones/laligahypermotiontv3sd/master.m3u8?u=azizoo&p=75fe284b61a4b5c91f707b82a54746a6bf9c50b9d6f9b13a46eca6a912cb6b2d" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 3 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/831
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 4 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 4 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4892
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 4 HD 720p" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 4 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4893
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 4 SD" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 4 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4894
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 5 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 5 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4895
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 5 HD 720p" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 5 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4896
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 5 SD" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 5 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4897
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 6 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 6 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4898
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 6 HD 720p" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 6 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4899
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 6 SD" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 6 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4900
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 7 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 7 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4901
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 7 HD 720p" tvg-logo="" group-title="ESPAÑA DEPORTES",LALIGA TV HYPERMOTION 7 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4902
-#EXTINF:-1 tvg-id="GOL" tvg-name="GOL PLAY HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ESPAÑA DEPORTES",GOL PLAY HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/832
-#EXTINF:-1 tvg-id="GOL" tvg-name="GOL PLAY HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ESPAÑA DEPORTES",GOL PLAY HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/833
-#EXTINF:-1 tvg-id="GOL" tvg-name="GOL PLAY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ESPAÑA DEPORTES",GOL PLAY SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/834
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES HD 1080p RAW" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 1080p RAW
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3544
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/806
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES Hevc" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES Hevc
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/807
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES HD 1080p (backup)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 1080p (backup)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/808
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES HD 1080p (Fibra)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 1080p (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2379
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES HD 1080p (Orange TV)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 1080p (Orange TV)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2380
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES HD 1080p OP1" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 1080p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2381
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES HD 1080p OP2" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 1080p OP2
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2382
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES HD 1080p OP3" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 1080p OP3
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2383
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/809
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES HD 720p OP1" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 720p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2384
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES HD 720p OP2" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES HD 720p OP2
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2385
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/810
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES LOW" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES LOW
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/811
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 HD 1080p " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 HD 1080p 
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/812
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 HD 1080p (Fibra)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 HD 1080p (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2387
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 HD 1080p (Solo Eventos) OP1" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 HD 1080p (Solo Eventos) OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2388
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ LIGA DE CAMPEONES 3 HD 1080p (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 3 HD 1080p (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/816
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 HD OP1 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 HD OP1 (Solo Eventos)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2386
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/813
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/814
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 LOW" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 2 LOW
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/815
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 HD 1080p (Fibra)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 3 HD 1080p (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2389
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 HD 720p (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 3 HD 720p (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4973
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 HD OP1 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 3 HD OP1 (Solo Eventos)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2390
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ LIGA DE CAMPEONES 3 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 3 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/817
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ LIGA DE CAMPEONES 4 HD 1080p (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 4 HD 1080p (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/818
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 HD OP1 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 4 HD OP1 (Solo Eventos)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2392
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 HD 1080p (Fibra)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 4 HD 1080p (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2391
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 SD (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 4 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4974
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ LIGA DE CAMPEONES 5 HD 1080p (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 5 HD 1080p (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/819
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 5 HD OP1 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 5 HD OP1 (Solo Eventos)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2394
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 5 HD 1080p (Fibra)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 5 HD 1080p (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2393
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 6 HD 1080p (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 6 HD 1080p (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4975
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 6 HD OP1 (Solo Eventos)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 6 HD OP1 (Solo Eventos)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2395
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 6 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 6 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/820
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 7 HD 1080p (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 7 HD 1080p (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4976
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 7 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 7 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/821
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ LIGA DE CAMPEONES 8 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 8 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/822
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 9 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 9 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4977
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 9 (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 9 (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2396
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 10 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 10 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4978
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 10 (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 10 (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2397
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 11 (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 11 (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2398
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 12 HD" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 12 HD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4979
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 12 (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 12 (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2399
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 13 HD" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 13 HD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4980
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 13 (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 13 (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2400
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 14 (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 14 (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2401
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 15 (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 15 (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2402
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 16 (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ LIGA DE CAMPEONES 16 (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2403
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES Hevc" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES Hevc
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/838
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/839
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/840
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/841
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 HD 1080p (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES 2 HD 1080p (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/842
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES 2 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/843
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ DEPORTES 3 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4928
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ DEPORTES 3 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES 3 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/844
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ DEPORTES 4 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4929
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ DEPORTES 4 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES 4 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/845
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ DEPORTES 5 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4930
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ DEPORTES 5 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES 5 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/846
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ DEPORTES 6 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4931
-#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ DEPORTES 6 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES 6 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/847
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 7 HD 1080p" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ DEPORTES 7 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4932
-#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M+ DEPORTES 7 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA DEPORTES",M+ DEPORTES 7 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/848
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 8 SD (SOLO EVENTOS)" tvg-logo="" group-title="ESPAÑA DEPORTES",M+ DEPORTES 8 SD (SOLO EVENTOS)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/849
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="ESPAÑA DEPORTES",EUROSPORT 1 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/857
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD 1080P OP1" tvg-logo="" group-title="ESPAÑA DEPORTES",EUROSPORT 1 HD 1080P OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3592
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD 1080p (FIBRA)" tvg-logo="" group-title="ESPAÑA DEPORTES",EUROSPORT 1 HD 1080p (FIBRA)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3591
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="ESPAÑA DEPORTES",EUROSPORT 1 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/858
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="ESPAÑA DEPORTES",EUROSPORT 1 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/859
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="ESPAÑA DEPORTES",EUROSPORT 2 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/860
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="ESPAÑA DEPORTES",EUROSPORT 2 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/861
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="ESPAÑA DEPORTES",EUROSPORT 2 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/862
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO HD 1080p" tvg-logo="https://images2.imgbox.com/70/b7/Xf4dBVhc_o.png" group-title="ESPAÑA DEPORTES",ONETORO HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/863
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO HD 720p" tvg-logo="https://images2.imgbox.com/70/b7/Xf4dBVhc_o.png" group-title="ESPAÑA DEPORTES",ONETORO HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/864
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO SD" tvg-logo="https://images2.imgbox.com/70/b7/Xf4dBVhc_o.png" group-title="ESPAÑA DEPORTES",ONETORO SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/865
-#EXTINF:-1 tvg-id="Torolé TV" tvg-name="TOROLE HD 1080p" tvg-logo="https://contenidostv.es/images/torole512.png" group-title="ESPAÑA DEPORTES",TOROLE HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/866
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV HD 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="ESPAÑA DEPORTES",EL TORO TV HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1490
-#EXTINF:-1 tvg-id="Torolé TV" tvg-name="TOROLE HD 720p" tvg-logo="https://contenidostv.es/images/torole512.png" group-title="ESPAÑA DEPORTES",TOROLE HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/867
-#EXTINF:-1 tvg-id="Torolé TV" tvg-name="TOROLE SD" tvg-logo="https://contenidostv.es/images/torole512.png" group-title="ESPAÑA DEPORTES",TOROLE SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/868
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA ʰᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA DAZN ",DAZN LA LIGA ʰᵉᵛᶜ
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1027
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA HD 1080p RAW" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN LA LIGA HD 1080p RAW
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3587
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA DAZN ",DAZN LA LIGA HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1028
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA DAZN ",DAZN LA LIGA HD 720P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1029
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA DAZN ",DAZN LA LIGA SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1030
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1 HD 1080p OP1" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN LA LIGA 1 HD 1080p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2430
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1 HD 720p OP1" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN LA LIGA 1 HD 720p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2431
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="ESPAÑA DAZN ",DAZN LA LIGA 2 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1031
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD 1080p OP1" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN LA LIGA 2 HD 1080p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2432
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="ESPAÑA DAZN ",DAZN LA LIGA 2 HD 720P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1032
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD 720p OP1" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN LA LIGA 2 HD 720p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2433
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA DAZN ",DAZN F1 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1034
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD 1080p OP1" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN F1 HD 1080p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2420
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 ʰᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA DAZN ",DAZN F1 ʰᵉᵛᶜ
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1033
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD (Fibra)" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN F1 FHD (Fibra)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2425
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA DAZN ",DAZN F1 HD 720P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1035
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA DAZN ",DAZN F1 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1036
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="ESPAÑA DAZN ",DAZN 1 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1037
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD 1080p OP1" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN 1 HD 1080p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2421
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="ESPAÑA DAZN ",DAZN 1 HD 720P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1038
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 SD" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN 1 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2426
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="ESPAÑA DAZN ",DAZN 2 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1039
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD 1080p OP1" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN 2 HD 1080p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2422
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="ESPAÑA DAZN ",DAZN 2 HD 720P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1040
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 SD" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN 2 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2427
-#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="ESPAÑA DAZN ",DAZN 3 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1041
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FH 1080p OP1" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN 3 FH 1080p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2423
-#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="ESPAÑA DAZN ",DAZN 3 HD 720P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1042
-#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 SD" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN 3 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2428
-#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="ESPAÑA DAZN ",DAZN 4 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1043
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FH 1080p OP1" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN 4 FH 1080p OP1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2424
-#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="ESPAÑA DAZN ",DAZN 4 HD 720P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1044
-#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 SD" tvg-logo="" group-title="ESPAÑA DAZN ",DAZN 4 SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2429
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 1 HD 1080p" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2025/09/main68b9adeccc3a0.jpg" group-title="ESPAÑA DAZN BALONCESTO",DAZN Baloncesto 1 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5014
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 2 HD 1080p" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2025/09/main68b9adeccc3a0.jpg" group-title="ESPAÑA DAZN BALONCESTO",DAZN Baloncesto 2 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5015
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 3 HD 1080p" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2025/09/main68b9adeccc3a0.jpg" group-title="ESPAÑA DAZN BALONCESTO",DAZN Baloncesto 3 HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5016
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 1 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 1 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5050
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 2 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 2 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5051
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 3 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 3 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5052
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 4 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 4 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5053
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 5 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 5 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5054
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 6 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 6 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5055
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 7 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 7 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5056
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 8 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 8 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5057
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 9 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 9 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5058
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 10 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 10 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5059
-#EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 11 HD 1080P" tvg-logo="" group-title="ESPAÑA DAZN BALONCESTO",LIGA ACB 11 HD 1080P
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/5060
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 1" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4933
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 2" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 2
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4934
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 3" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 3
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4935
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 4" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 4
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4936
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 5" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 5
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4937
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 6" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 6
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4938
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 7" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 7
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4939
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 9" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 9
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4940
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 8" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 8
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4941
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 10" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 10
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4942
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 11" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 11
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4943
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 12" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 12
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4944
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 13" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 13
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4945
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 14" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 14
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4946
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 15" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 15
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4947
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 16" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 16
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4948
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 17" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 17
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4949
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 18" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 18
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4950
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 19" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 19
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4951
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 20" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 20
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4952
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 21" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 21
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4953
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 22" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 22
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4954
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 23" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 23
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4955
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 24" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 24
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4956
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 25" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 25
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4957
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 26" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 26
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4958
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 27" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 27
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4959
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 28" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 28
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4960
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 29" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 29
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4961
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 30" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 30
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4962
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 31" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 31
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4963
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 32" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 32
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4964
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 33" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 33
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4965
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 34" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 34
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4966
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 35" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 35
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4967
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 36" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 36
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4968
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 37" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 37
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4969
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 38" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 38
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4970
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 39" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 39
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4971
-#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 40" tvg-logo="" group-title="ESPAÑA DAZN EVENTOS",DAZN EVENTOS 40
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4972
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ HD (Lineal)" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ HD (Lineal)
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4864
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 01" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 01
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4865
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 02" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 02
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4866
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 03" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 03
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4867
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 04" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 04
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4868
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 05" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 05
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4869
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 06" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 06
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4870
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 07" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 07
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4871
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 08" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 08
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4872
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 09" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 09
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4873
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 10" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 10
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4874
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 11" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 11
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4875
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 12" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 12
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4876
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 13" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 13
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4877
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 14" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 14
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4878
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 15" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 15
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4879
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 16" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 16
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4880
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 17" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 17
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4881
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 18" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 18
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4882
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 19" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 19
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4883
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA+ EVENTO 20" tvg-logo="https://imgs.search.brave.com/vKr9jj32bRLWWBM8ANH6OQhzXhOXgfEIswKbCyF4n70/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2I2L0xh/TGlnYSUyQl8yMDIz/X0xvZ28uc3ZnLzI1/MHB4LUxhTGlnYSUy/Ql8yMDIzX0xvZ28u/c3ZnLnBuZw" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA+ EVENTO 20
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4884
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 1" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3968
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 2" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 2
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3969
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 3" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 3
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3970
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 4" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 4
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3971
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 5" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 5
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3972
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 6" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 6
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3973
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 7" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 7
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3974
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 8" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 8
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3975
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 9" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 9
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3976
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 10" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 10
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3977
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 11" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 11
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3978
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 12" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 12
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3979
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 13" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 13
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3980
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 14" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 14
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3981
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA + 15" tvg-logo="" group-title="ESPAÑA RFEF TV ( LALIGA+ )",LALIGA + 15
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/3982
-#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 1 HD" tvg-logo="" group-title="ESPAÑA DAZN LIGA F",FINETWORK DAZN 1 HD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2280
-#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 2 HD" tvg-logo="" group-title="ESPAÑA DAZN LIGA F",FINETWORK DAZN 2 HD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2281
-#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 3 HD" tvg-logo="" group-title="ESPAÑA DAZN LIGA F",FINETWORK DAZN 3 HD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2282
-#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 4 HD" tvg-logo="" group-title="ESPAÑA DAZN LIGA F",FINETWORK DAZN 4 HD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2283
-#EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 5 HD" tvg-logo="" group-title="ESPAÑA DAZN LIGA F",FINETWORK DAZN 5 HD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2284
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELE MADRID HD 1080p" tvg-logo="https://images2.imgbox.com/2d/68/jetIIWHy_o.png" group-title="ESPAÑA AUTONÓMICOS",TELE MADRID HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1504
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELE MADRID HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TELE MADRID HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1505
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELE MADRID SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TELE MADRID SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1506
-#EXTINF:-1 tvg-id="CMM TV" tvg-name="CMT HD 1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",CMT HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1516
-#EXTINF:-1 tvg-id="CMM TV" tvg-name="CMT HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",CMT HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1517
-#EXTINF:-1 tvg-id="CMM TV" tvg-name="CMT SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",CMT SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1518
-#EXTINF:-1 tvg-id="" tvg-name="7RM HD 1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",7RM HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4908
-#EXTINF:-1 tvg-id="" tvg-name="7RM HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",7RM HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4909
-#EXTINF:-1 tvg-id="" tvg-name="7RM SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",7RM SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4910
-#EXTINF:-1 tvg-id="" tvg-name="A PUNT HD 1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",A PUNT HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4911
-#EXTINF:-1 tvg-id="" tvg-name="A PUNT HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",A PUNT HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4912
-#EXTINF:-1 tvg-id="" tvg-name="A PUNT SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",A PUNT SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4913
-#EXTINF:-1 tvg-id="TV3 Catalunya" tvg-name="TV3 CATALUÑA HD  1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TV3 CATALUÑA HD  1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1513
-#EXTINF:-1 tvg-id="TV3 Catalunya" tvg-name="TV3 CATALUÑA HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TV3 CATALUÑA HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1514
-#EXTINF:-1 tvg-id="TV3 Catalunya" tvg-name="TV3 CATALUÑA SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TV3 CATALUÑA SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1515
-#EXTINF:-1 tvg-id="La Otra" tvg-name="LA OTRA HD 1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",LA OTRA HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1507
-#EXTINF:-1 tvg-id="La Otra" tvg-name="LA OTRA HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",LA OTRA HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1508
-#EXTINF:-1 tvg-id="La Otra" tvg-name="LA OTRA SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",LA OTRA SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1509
-#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA HD 1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TV GALICIA HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4917
-#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TV GALICIA HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4918
-#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TV GALICIA SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4919
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV HD 1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TRECE TV HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1510
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TRECE TV HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1511
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",TRECE TV SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1512
-#EXTINF:-1 tvg-id="" tvg-name="PTV CORDOBA HD 1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",PTV CORDOBA HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4921
-#EXTINF:-1 tvg-id="" tvg-name="PTV CORDOBA HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",PTV CORDOBA HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4922
-#EXTINF:-1 tvg-id="" tvg-name="PTV CORDOBA SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",PTV CORDOBA SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4923
-#EXTINF:-1 tvg-id="" tvg-name="PTV GRANADA HD 1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",PTV GRANADA HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4924
-#EXTINF:-1 tvg-id="" tvg-name="PTV GRANADA HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",PTV GRANADA HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4925
-#EXTINF:-1 tvg-id="" tvg-name="PTV GRANADA SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",PTV GRANADA SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4926
-#EXTINF:-1 tvg-id="Aragón TV" tvg-name="ARAGON TV INT HD 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png" group-title="ESPAÑA AUTONÓMICOS",ARAGON TV INT HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1500
-#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",ARAGON TV HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4914
-#EXTINF:-1 tvg-id="Aragón TV" tvg-name="ARAGON TV INT SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png" group-title="ESPAÑA AUTONÓMICOS",ARAGON TV INT SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1501
-#EXTINF:-1 tvg-id="Canal Extremadura SAT" tvg-name="EXTREMADURA SAT HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTREM.png" group-title="ESPAÑA AUTONÓMICOS",EXTREMADURA SAT HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1503
-#EXTINF:-1 tvg-id="" tvg-name="EXTREMADURA SAT HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",EXTREMADURA SAT HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4915
-#EXTINF:-1 tvg-id="" tvg-name="EXTREMADURA SAT SD" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",EXTREMADURA SAT SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4916
-#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="CANAL SUR HD 1080p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",CANAL SUR HD 1080p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1497
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR HD 720p" tvg-logo="" group-title="ESPAÑA AUTONÓMICOS",CANAL SUR HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/4920
-#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="CANAL SUR ANDALUCIA SD" tvg-logo="https://images2.imgbox.com/3f/ac/b5mRaurP_o.png" group-title="ESPAÑA AUTONÓMICOS",CANAL SUR ANDALUCIA SD
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1498
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR ANDALUCIA 2 HD 720p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/1200px-Canal_Sur_2_-_2017_logo.png" group-title="ESPAÑA AUTONÓMICOS",CANAL SUR ANDALUCIA 2 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1499
-#EXTINF:-1 tvg-id="ETB1" tvg-name="ETB 1 HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB1.png" group-title="ESPAÑA AUTONÓMICOS",ETB 1 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1495
-#EXTINF:-1 tvg-id="ETB2" tvg-name="ETB 2 HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB2.png" group-title="ESPAÑA AUTONÓMICOS",ETB 2 HD 720p
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/1496
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 1" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 1
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2367
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 2" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 2
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2368
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 3" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 3
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2369
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 4" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 4
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2370
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 5" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 5
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2371
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 6" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 6
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2372
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 7" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 7
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2373
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 8" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 8
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2374
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 9" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 9
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2375
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 10" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 10
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2376
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 11" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 11
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2377
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ALQUILER 12" tvg-logo="" group-title="ESPAÑA ALQUILER - PPV",MOVISTAR ALQUILER 12
-http://juancs.streaminc.biz:8691/679652445p1/dJmujwXz/2378
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD) DAZN LALIGA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/243
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO2) DAZN LALIGA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/147167
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD) M+ LALIGA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/252
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/254
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) M+ LALIGA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/97192
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (HD) DAZN F1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/56469
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (HD REPUESTO) DAZN F1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/97147
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN F1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/251
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD REPUESTO) DAZN F1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/97194
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA TV BAR
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/283
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/264
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/97195
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/265
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/97196
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/99051
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/129636
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/267
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN 1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/247
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (HD) DAZN 1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/128935
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES VIP",ES: DAZN 2
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/248
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES VIP",ES: DAZN 3
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/249
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES VIP",ES: DAZN 4
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/250
+#EXTINF:-1 tvg-id="es.MULTIFUT. 5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/269
+#EXTINF:-1 tvg-id="es.Multifútbol 6" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/270
+#EXTINF:-1 tvg-id="es.Multifútbol 7" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/271
+#EXTINF:-1 tvg-id="es.Multifútbol 8" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/272
+#EXTINF:-1 tvg-id="LigaCampe9" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/273
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ DEPORTES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/286
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 2
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/288
+#EXTINF:-1 tvg-id="M.Deportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 3
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/289
+#EXTINF:-1 tvg-id="M.Deportes4.es" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 4
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/290
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 6
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/292
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 7
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/293
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES VIP",ES: EUROSPORT 1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/281
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="ES | DEPORTES VIP",ES: EUROSPORT 2
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/282
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 1) ONETORO
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/631
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 2) ONETORO
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/38816
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/632
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="ES | DEPORTES VIP",ES: ESPN DEPORTES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/280
+#EXTINF:-1 tvg-id="Bar?a TV" tvg-name="ES: BARCA TV" tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="ES | DEPORTES VIP",ES: BARCA TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/721
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES: REAL MADRID TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="ES | DEPORTES VIP",ES: REAL MADRID TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/724
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ES | DEPORTES VIP",ES: TELEDEPORTE
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/726
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ES | DEPORTES VIP",ES: GOL PLAY
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/633
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="ES | DEPORTES VIP",ES: M+ GOLF
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/285
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="ES: BABY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="ES | INFANTILES VIP",ES: BABY TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/636
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES: BOING" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ES | INFANTILES VIP",ES: BOING
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/637
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES: CLAN TVE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ES | INFANTILES VIP",ES: CLAN TVE
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/638
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | INFANTILES VIP",ES: DISNEY CHANNEL
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/640
+#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="ES | INFANTILES VIP",ES: DISNEY JUNIOR
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/641
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="ES: DREAMWORKS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ES | INFANTILES VIP",ES: DREAMWORKS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/643
+#EXTINF:-1 tvg-id="NickJr.es" tvg-name="ES: NICK JR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="ES | INFANTILES VIP",ES: NICK JR
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/644
+#EXTINF:-1 tvg-id="es.Nickelodeon" tvg-name="ES: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | INFANTILES VIP",ES: NICKELODEON
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/645
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | TOP CANALES VIP",ES: TELECINCO
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/647
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | TOP CANALES VIP",ES: LA 1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/648
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | TOP CANALES VIP",ES: LA 2
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/649
+#EXTINF:-1 tvg-id="0" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | TOP CANALES VIP",ES: ANTENA 3
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/646
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | TOP CANALES VIP",ES: LA SEXTA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/650
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | TOP CANALES VIP",ES: CUATRO
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/651
+#EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | TOP CANALES VIP",ES: FACTORÍA DE FICCIÓN
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/652
+#EXTINF:-1 tvg-id="TRECE" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | TOP CANALES VIP",ES: TRECE
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/655
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES VIP",ES: M+ ACCIÓN
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/656
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE & SERIES VIP",ES: M+ COMEDIA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/657
+#EXTINF:-1 tvg-id="M+ Cine Espanol" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE & SERIES VIP",ES: M+ CINE ESPAÑOL
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/658
+#EXTINF:-1 tvg-id="M+ Clasicos" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES VIP",ES: M+ CLÁSICOS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/659
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE & SERIES VIP",ES: M+ ESTRENOS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/87110
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE & SERIES VIP",ES: M+ DRAMA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/660
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | CINE & SERIES VIP",ES: M+ HITS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/663
+#EXTINF:-1 tvg-id="es.#0" tvg-name="ES: M+ ORIGINALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | CINE & SERIES VIP",ES: M+ ORIGINALES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/87107
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE & SERIES VIP",ES: M+ INDIE
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/87106
+#EXTINF:-1 tvg-id="Xtrm.es" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE & SERIES VIP",ES: XTRM
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/767
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | CINE & SERIES VIP",ES: BE MAD
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/737
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE & SERIES VIP",ES: HOLLYWOOD
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/665
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | CINE & SERIES VIP",ES: PARAMOUNT CHANNEL
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/666
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE & SERIES VIP",ES: SOMOS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/667
+#EXTINF:-1 tvg-id="TNT.sp" tvg-name="ES: WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | CINE & SERIES VIP",ES: WARNER TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/668
+#EXTINF:-1 tvg-id="es.TCM" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | CINE & SERIES VIP",ES: TCM
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/669
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="ES | CINE & SERIES VIP",ES: AXN
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/735
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="ES | CINE & SERIES VIP",ES: AXN MOVIES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/736
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: CALLE 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | CINE & SERIES VIP",ES: CALLE 13
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/740
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE & SERIES VIP",ES: DARK
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/782
+#EXTINF:-1 tvg-id="MXC| ATRES SERIES FHD" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="ES | CINE & SERIES VIP",ES: ATRESERIES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/800
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | CULTURA VIP",ES: M+ DOCUMENTALES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/87108
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: MOVISTAR PLUS+" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CULTURA VIP",ES: MOVISTAR PLUS+
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/87109
+#EXTINF:-1 tvg-id="0" tvg-name="ES: CANAL DECASA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | CULTURA VIP",ES: CANAL DECASA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/705
+#EXTINF:-1 tvg-id="0" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | CULTURA VIP",ES: CAZA Y PESCA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/706
+#EXTINF:-1 tvg-id="Crimen & Investigación" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | CULTURA VIP",ES: AMC CRIME
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/707
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="ES | CULTURA VIP",ES: DISCOVERY
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/708
+#EXTINF:-1 tvg-id="Dmax.es" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ES | CULTURA VIP",ES: DMAX
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/709
+#EXTINF:-1 tvg-id="0" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | CULTURA VIP",ES: ODISEA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/710
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ES | CULTURA VIP",ES: NATIONAL GEOGRAPHIC
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/711
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | CULTURA VIP",ES: NAT GEO WILD
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/712
+#EXTINF:-1 tvg-id="0" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ES | CULTURA VIP",ES: HISTORIA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/713
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA VIP",ES: IBERALIA TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/714
+#EXTINF:-1 tvg-id="MTVEsp.sp" tvg-name="ES: MTV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV.png" group-title="ES | MUSICA VIP",ES: MTV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/719
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="ES: 24 HORAS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ES | NEWS VIP",ES: 24 HORAS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/730
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | ESTILO DE VIDA VIP",ES: AMC
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/732
+#EXTINF:-1 tvg-id="0" tvg-name="ES: ARAGÓN TV INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="ES | REGIONAL VIP",ES: ARAGÓN TV INT
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/734
+#EXTINF:-1 tvg-id="0" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | ESTILO DE VIDA VIP",ES: CANAL COCINA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/742
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: CANAL SUR ANDALUCÍA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | REGIONAL VIP",ES: CANAL SUR ANDALUCÍA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/744
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="ES | ESTILO DE VIDA VIP",ES: COMEDY CENTRAL
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/745
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="ES: COSMO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="ES | ESTILO DE VIDA VIP",ES: COSMO
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/746
+#EXTINF:-1 tvg-id="DKISS.es" tvg-name="ES: DKISS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="ES | ESTILO DE VIDA VIP",ES: DKISS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/748
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="ES: CANAL EXTREMADURA SAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="ES | OTHER VIP",ES: CANAL EXTREMADURA SAT
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/750
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES: STAR CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="ES | ESTILO DE VIDA VIP",ES: STAR CHANNEL
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/752
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES: MEGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ES | TOP CANALES VIP",ES: MEGA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/753
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES: NEOX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="ES | OTHER VIP",ES: NEOX
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/755
+#EXTINF:-1 tvg-id="Sundance.es" tvg-name="ES: SUNDANCE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | ESTILO DE VIDA VIP",ES: SUNDANCE
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/759
+#EXTINF:-1 tvg-id="Scifi.sp" tvg-name="ES: SYFY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | ESTILO DE VIDA VIP",ES: SYFY
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/760
+#EXTINF:-1 tvg-id="TEN.es" tvg-name="ES: TEN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="ES | OTHER VIP",ES: TEN
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/762
+#EXTINF:-1 tvg-id="ETB 2" tvg-name="ES: ETB 2" tvg-logo="https://docdog.top/logo/countries/spain/etb2-es.png" group-title="ES | OTHER VIP",ES: ETB 2
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/768
+#EXTINF:-1 tvg-id="ETB 1" tvg-name="ES: ETB 1" tvg-logo="https://docdog.top/logo/countries/spain/etb1-es.png" group-title="ES | OTHER VIP",ES: ETB 1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/769
+#EXTINF:-1 tvg-id="A Punt" tvg-name="ES: À PUNT" tvg-logo="https://docdog.top/logo/countries/spain/A_Punt.png" group-title="ES | OTHER VIP",ES: À PUNT
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/777
+#EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | CULTURA VIP",ES: AMC BREAK
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/778
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | NEWS VIP",ES: EL TORO TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/783
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="ES: ESPORT 3 CAT" tvg-logo="https://docdog.top/logo/countries/spain/Esport_3.png" group-title="ES | OTHER VIP",ES: ESPORT 3 CAT
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/784
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="ES: M+ TIERRA MEDIA" tvg-logo="https://docdog.top/logo/countries/es/M_TIERRA_MEDIA.png" group-title="ES | ESTILO DE VIDA VIP",ES: M+ TIERRA MEDIA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/788
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ES: CAZAVISIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | CULTURA VIP",ES: CAZAVISIÓN
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/827
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ BUEN VIAJE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="ES | TOP CANALES VIP",ES: M+ BUEN VIAJE
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/60251
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA VIP",ES: IBERALIA 100% CAZA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/99473
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA VIP",ES: IBERALIA 100% PESCA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/99474
+#EXTINF:-1 tvg-id="M+ #0" tvg-name="ES: RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="ES | DEPORTES VIP",ES: RALLY TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/128955
+#EXTINF:-1 tvg-id="" tvg-name="ES: MAX PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/max.png" group-title="ES | UFC",ES: MAX PPV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/129979
+#EXTINF:-1 tvg-id="" tvg-name="ES: UFC FIGHT PASS" tvg-logo="https://docdog.top/logo/countries/es/UFC_FIGHT_PASS.png" group-title="ES | UFC",ES: UFC FIGHT PASS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/129980
+#EXTINF:-1 tvg-id="" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="ES | TOP CANALES VIP",ES: CASTILLA LA MANCHA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132291
+#EXTINF:-1 tvg-id="" tvg-name="CH1" tvg-logo="" group-title="PPV",CH1
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132295
+#EXTINF:-1 tvg-id="" tvg-name="CH4" tvg-logo="" group-title="PPV",CH4
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132298
+#EXTINF:-1 tvg-id="" tvg-name="CH12" tvg-logo="" group-title="PPV",CH12
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132306
+#EXTINF:-1 tvg-id="" tvg-name="CH2" tvg-logo="" group-title="PPV",CH2
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132296
+#EXTINF:-1 tvg-id="" tvg-name="CH3" tvg-logo="" group-title="PPV",CH3
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132297
+#EXTINF:-1 tvg-id="" tvg-name="CH5" tvg-logo="" group-title="PPV",CH5
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132299
+#EXTINF:-1 tvg-id="" tvg-name="CH6" tvg-logo="" group-title="PPV",CH6
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132300
+#EXTINF:-1 tvg-id="" tvg-name="CH7" tvg-logo="" group-title="PPV",CH7
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132301
+#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="" group-title="PPV",CH8
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132302
+#EXTINF:-1 tvg-id="" tvg-name="CH9" tvg-logo="" group-title="PPV",CH9
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132303
+#EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/132304
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ HITS" tvg-logo="" group-title="ES | MUSICA VIP",ES: M+ HITS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/134217
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB VIP",ES: ACB Evento 01
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/147272
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 02" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB VIP",ES: ACB Evento 02
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/147273
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 03" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB VIP",ES: ACB Evento 03
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/147274
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 05" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB VIP",ES: ACB Evento 05
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/147276
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 07" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB VIP",ES: ACB Evento 07
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/148671
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 08" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB VIP",ES: ACB Evento 08
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/148672
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Canaria" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="ES | OTHER VIP",ES: TV Canaria
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/154466
+#EXTINF:-1 tvg-id="" tvg-name="MEX: A&AMP;E" tvg-logo="https://docdog.top/logo/countries/mexico/ae.png" group-title="LAME | MEXICO VIP",MEX: A&AMP;E
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5103
+#EXTINF:-1 tvg-id="" tvg-name="MEX: A3 SERIES" tvg-logo="https://docdog.top/logo/countries/mexico/a3series.png" group-title="LAME | MEXICO VIP",MEX: A3 SERIES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5104
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ADN 40" tvg-logo="https://docdog.top/logo/countries/mexico/adn40-mx.png" group-title="LAME | MEXICO VIP",MEX: ADN 40
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5105
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AMC" tvg-logo="https://docdog.top/logo/countries/mexico/amc.png" group-title="LAME | MEXICO VIP",MEX: AMC
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5107
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/mexico/animalplanet.png" group-title="LAME | MEXICO VIP",MEX: ANIMAL PLANET
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5108
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AYM SPORTS" tvg-logo="https://docdog.top/logo/countries/mexico/aymsports.png" group-title="LAME | MEXICO VIP",MEX: AYM SPORTS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5111
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZ CINEMA" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO VIP",MEX: AZ CINEMA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5112
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZ CORAZON" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO VIP",MEX: AZ CORAZON
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5114
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA UNO" tvg-logo="https://docdog.top/logo/countries/mexico/azteca1.png" group-title="LAME | MEXICO VIP",MEX: AZTECA UNO
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5116
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA 7" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png" group-title="LAME | MEXICO VIP",MEX: AZTECA 7
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5117
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BANDAMAX" tvg-logo="https://docdog.top/logo/countries/mexico/bandamax-mx.png" group-title="LAME | MEXICO VIP",MEX: BANDAMAX
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5121
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BBC WORLD NEWS" tvg-logo="https://docdog.top/logo/countries/mexico/bbcworldnews.png" group-title="LAME | MEXICO VIP",MEX: BBC WORLD NEWS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5122
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BLOOMBERG" tvg-logo="https://docdog.top/logo/countries/mexico/bloomberg.png" group-title="LAME | MEXICO VIP",MEX: BLOOMBERG
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5123
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/mexico/boomerang.png" group-title="LAME | MEXICO VIP",MEX: BOOMERANG
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5124
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL DE LAS ESTRELLAS" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: CANAL DE LAS ESTRELLAS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5126
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/disneychannel.png" group-title="LAME | MEXICO VIP",MEX: DISNEY CHANNEL
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5147
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="LAME | MEXICO VIP",MEX: DISNEY JR
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5148
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISTRITO COMEDIA" tvg-logo="https://docdog.top/logo/countries/mexico/distrito-comedia-mx.png" group-title="LAME | MEXICO VIP",MEX: DISTRITO COMEDIA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5149
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DW" tvg-logo="https://docdog.top/logo/countries/mexico/dwenglish.png" group-title="LAME | MEXICO VIP",MEX: DW
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5150
+#EXTINF:-1 tvg-id="" tvg-name="MEX: E! ENTERTAINMENT" tvg-logo="https://docdog.top/logo/countries/mexico/eentertainmenttv.png" group-title="LAME | MEXICO VIP",MEX: E! ENTERTAINMENT
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5151
+#EXTINF:-1 tvg-id="" tvg-name="MEX: EL GOURMET" tvg-logo="https://docdog.top/logo/countries/mexico/elgourmet.png" group-title="LAME | MEXICO VIP",MEX: EL GOURMET
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5152
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 2" tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png" group-title="LAME | MEXICO VIP",MEX: ESPN 2
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5153
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 3" tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png" group-title="LAME | MEXICO VIP",MEX: ESPN 3
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5154
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN" tvg-logo="https://docdog.top/logo/countries/mexico/espn.png" group-title="LAME | MEXICO VIP",MEX: ESPN
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5155
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN EXTRA" tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png" group-title="LAME | MEXICO VIP",MEX: ESPN EXTRA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5156
+#EXTINF:-1 tvg-id="" tvg-name="MEX: EUROPA EUROPA" tvg-logo="https://docdog.top/logo/countries/mexico/europaeuropa.png" group-title="LAME | MEXICO VIP",MEX: EUROPA EUROPA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5157
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOOD NETWORK" tvg-logo="https://docdog.top/logo/countries/mexico/foodnetwork.png" group-title="LAME | MEXICO VIP",MEX: FOOD NETWORK
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5159
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/mexico/foxnews.png" group-title="LAME | MEXICO VIP",MEX: FOX NEWS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5162
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FX" tvg-logo="https://docdog.top/logo/countries/mexico/fx.png" group-title="LAME | MEXICO VIP",MEX: FX
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5165
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GARAGE TV" tvg-logo="https://docdog.top/logo/countries/mexico/garagetv.png" group-title="LAME | MEXICO VIP",MEX: GARAGE TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5166
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLDEN EDGE" tvg-logo="https://docdog.top/logo/countries/mexico/golden-edge-mx.png" group-title="LAME | MEXICO VIP",MEX: GOLDEN EDGE
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5169
+#EXTINF:-1 tvg-id="" tvg-name="MEX: HISTORY" tvg-logo="https://docdog.top/logo/countries/mexico/historychannel.png" group-title="LAME | MEXICO VIP",MEX: HISTORY
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5172
+#EXTINF:-1 tvg-id="" tvg-name="MEX: HOLA TV" tvg-logo="https://docdog.top/logo/countries/mexico/holatv.png" group-title="LAME | MEXICO VIP",MEX: HOLA TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5174
+#EXTINF:-1 tvg-id="" tvg-name="MEX: IMAGEN TV" tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png" group-title="LAME | MEXICO VIP",MEX: IMAGEN TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5175
+#EXTINF:-1 tvg-id="" tvg-name="MEX: INVESTIGATION DISCOVERY" tvg-logo="https://docdog.top/logo/countries/mexico/investigationdiscovery.png" group-title="LAME | MEXICO VIP",MEX: INVESTIGATION DISCOVERY
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5177
+#EXTINF:-1 tvg-id="" tvg-name="MEX: I SAT" tvg-logo="https://docdog.top/logo/countries/mexico/isat.png" group-title="LAME | MEXICO VIP",MEX: I SAT
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5178
+#EXTINF:-1 tvg-id="" tvg-name="MEX: LIFETIME" tvg-logo="https://docdog.top/logo/countries/mexico/lifetime.png" group-title="LAME | MEXICO VIP",MEX: LIFETIME
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5180
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MILENIO TV" tvg-logo="https://docdog.top/logo/countries/mexico/mileniotv.png" group-title="LAME | MEXICO VIP",MEX: MILENIO TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5183
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MTV" tvg-logo="https://docdog.top/logo/countries/mexico/mtv.png" group-title="LAME | MEXICO VIP",MEX: MTV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5184
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MULTIMEDIOS" tvg-logo="https://docdog.top/logo/countries/mexico/multimedios-mx.png" group-title="LAME | MEXICO VIP",MEX: MULTIMEDIOS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5187
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/mexico/natgeowild.png" group-title="LAME | MEXICO VIP",MEX: NAT GEO WILD
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5190
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICK 2" tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png" group-title="LAME | MEXICO VIP",MEX: NICK 2
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5192
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICK JR" tvg-logo="https://docdog.top/logo/countries/mexico/nickjr.png" group-title="LAME | MEXICO VIP",MEX: NICK JR
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5193
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/mexico/nickelodeon.png" group-title="LAME | MEXICO VIP",MEX: NICKELODEON
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5194
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICKTOONS" tvg-logo="https://docdog.top/logo/countries/mexico/nicktoons.png" group-title="LAME | MEXICO VIP",MEX: NICKTOONS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5195
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TCM" tvg-logo="https://docdog.top/logo/countries/mexico/tcm.png" group-title="LAME | MEXICO VIP",MEX: TCM
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5206
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TDN" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TDN
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5207
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEFORMULA" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TELEFORMULA
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5208
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELENOVELAS" tvg-logo="https://docdog.top/logo/countries/mexico/telenovelas.png" group-title="LAME | MEXICO VIP",MEX: TELENOVELAS
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5210
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BITME" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: BITME
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5213
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TLC" tvg-logo="https://docdog.top/logo/countries/mexico/tlc.png" group-title="LAME | MEXICO VIP",MEX: TLC
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5214
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TLR" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TLR
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5215
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TNT SERIES" tvg-logo="https://docdog.top/logo/countries/mexico/tntseries.png" group-title="LAME | MEXICO VIP",MEX: TNT SERIES
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5217
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TOONCAST" tvg-logo="https://docdog.top/logo/countries/mexico/cartoonito-mx.png" group-title="LAME | MEXICO VIP",MEX: TOONCAST
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5218
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TRU TV" tvg-logo="https://docdog.top/logo/countries/mexico/trutv.png" group-title="LAME | MEXICO VIP",MEX: TRU TV
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5219
+#EXTINF:-1 tvg-id="" tvg-name="MEX: UNICABLE" tvg-logo="https://docdog.top/logo/countries/mexico/unicable-mx.png" group-title="LAME | MEXICO VIP",MEX: UNICABLE
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5224
+#EXTINF:-1 tvg-id="" tvg-name="MEX: UNIVERSAL CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/universalchannel.png" group-title="LAME | MEXICO VIP",MEX: UNIVERSAL CHANNEL
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5225
+#EXTINF:-1 tvg-id="" tvg-name="MEX: WOBI" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: WOBI
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5230
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries/mexico/foxsportspremium.png" group-title="LAME | MEXICO VIP",MEX: FOX SPORTS PREMIUM
+http://vpakcchheh.top:8080/vip1291769099097/7a9431f35686/5234
+#EXTINF:-1 tvg-id="dcineespanol.es" tvg-name="ES: M+ CINE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine.png" group-title="CINE Y SERIES",ES: M+ CINE
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/10
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES: M+ SERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="CINE Y SERIES",ES: M+ SERIES
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/11
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="CINE Y SERIES",ES: M+ CLÁSICOS
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/14
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="CINE Y SERIES",ES: M+ ACCIÓN
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/15
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="CINE Y SERIES",ES: M+ COMEDIA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/16
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="CINE Y SERIES",ES: M+ DRAMA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/17
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="CINE Y SERIES",ES: M+ INDIE
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/19
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="CINE Y SERIES",ES: M+ CINE ESPAÑOL
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/20
+#EXTINF:-1 tvg-id="0" tvg-name="ES: MOVISTAR PLUS+" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="GENERALISTAS",ES: MOVISTAR PLUS+
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/86
+#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="ES: M+ ORIGINALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="CINE Y SERIES",ES: M+ ORIGINALES
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/88
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="LALIGA",ES: (HD) M+ LALIGA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/92
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="LALIGA",ES: (HD REPUESTO) M+ LALIGA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/93
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="LALIGA",ES: (FHD) M+ LALIGA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/94
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="LALIGA",ES: (FHD REPUESTO) M+ LALIGA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/396
+#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/95
+#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="ES: (HD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="LALIGA",ES: (HD) M+ LALIGA TV 2
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/96
+#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="LALIGA",ES: (FHD) M+ LALIGA TV 3
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/97
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES: (HD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="LALIGA",ES: (HD) M+ LALIGA TV 3
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/8399
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="LALIGA",ES: (FHD) M+ LALIGA TV BAR
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/404
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="LALIGA",ES: (HD) M+ LALIGA TV BAR
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/8400
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DAZN DEPORTES",ES: (HD) DAZN 1
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/16656
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DAZN DEPORTES",ES: (FHD) DAZN 1
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/105
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: (SD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DAZN DEPORTES",ES: (SD) DAZN 1
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/16657
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="DAZN DEPORTES",ES: DAZN 2
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/106
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/107
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/397
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/108
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/403
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/111
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/112
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/113
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/114
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/115
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/116
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/117
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 10
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/118
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/119
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/120
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/121
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="LALIGA",ES: M+ COPA DEL REY
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/26612
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: (HD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="DEPORTES",ES: (HD) M+ VAMOS
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/123
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="DEPORTES",ES: (FHD) M+ VAMOS
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/122
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="DEPORTES",ES: EUROSPORT 1
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/128
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="DEPORTES",ES: EUROSPORT 2
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/129
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="DEPORTES",ES: (FHD) M+ DEPORTES
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/134
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: (HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="DEPORTES",ES: (HD) M+ DEPORTES
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/8401
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="DEPORTES",ES: M+ DEPORTES 2
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/135
+#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="DEPORTES",ES: M+ DEPORTES 3
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/136
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="DEPORTES",ES: M+ DEPORTES 4
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/137
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="DEPORTES",ES: M+ DEPORTES 5
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/138
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="DEPORTES",ES: M+ DEPORTES 6
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/139
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="DEPORTES",ES: M+ DEPORTES 7
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/140
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="DAZN DEPORTES",ES: DAZN 3
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/142
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="DAZN DEPORTES",ES: DAZN 4
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/143
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (HD) DAZN LALIGA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/391
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/393
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/74434
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (FHD) DAZN LALIGA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/392
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/394
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="DAZN LALIGA",ES: DAZN LALIGA 2
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/395
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (HD) DAZN F1
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/104
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (HD REPUESTO) DAZN F1
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/402
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (FHD) DAZN F1
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/401
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (FHD REPUESTO) DAZN F1
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/400
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="TOROS",ES: (LÍNEA 1) ONETORO
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/406
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 1
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/74481
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 16" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 16
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/74496
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 2
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/74520
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 3
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/74521
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 6
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/74524
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 8
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/74526
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 10
+http://espnobeeno.top:8080/es3691738163194002/21cc80cbd66b/74528
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/25125
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57344
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/63431
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD) DAZN LALIGA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/54668
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57359
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA",ES: DAZN LALIGA 2
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57476
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5758
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD REPUESTO) M+ LALIGA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/54535
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/54532
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) M+ LALIGA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57362
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | LALIGA",ES: M+ COPA DEL REY
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/58303
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (HD) DAZN F1
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57485
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (HD REPUESTO) DAZN F1
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57484
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN F1
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57486
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (FHD REPUESTO) DAZN F1
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57483
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57560
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57356
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/54531
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57363
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57367
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 2
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/58115
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5663
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/58116
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5664
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5665
+#EXTINF:-1 tvg-id="es.MULTIFUT. 5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5666
+#EXTINF:-1 tvg-id="es.Multifútbol 6" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5667
+#EXTINF:-1 tvg-id="es.Multifútbol 7" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5668
+#EXTINF:-1 tvg-id="es.Multifútbol 8" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5669
+#EXTINF:-1 tvg-id="LigaCampe9" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5670
+#EXTINF:-1 tvg-id="LigaCampe10" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 10
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5685
+#EXTINF:-1 tvg-id="LigaCampe11" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5686
+#EXTINF:-1 tvg-id="LigaCampe12" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5687
+#EXTINF:-1 tvg-id="LigaCampe13" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/29360
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN 1
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5589
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (HD) DAZN 1
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57475
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES",ES: DAZN 2
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5590
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES",ES: DAZN 3
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5591
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES",ES: DAZN 4
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5592
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV BAR
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5661
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/25128
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 2
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/25953
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 3
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/25954
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 3
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5652
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5651
+#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA",ES: M+ LALIGA TV 4
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57248
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (FHD) M+ DEPORTES
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5643
+#EXTINF:-1 tvg-id="es.MultiDeporte" tvg-name="ES: (HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (HD) M+ DEPORTES
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57481
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 2
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5639
+#EXTINF:-1 tvg-id="M.Deportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 3
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5640
+#EXTINF:-1 tvg-id="M.Deportes4.es" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 4
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5641
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 5
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5681
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 6
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5682
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 7
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5683
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5630
+#EXTINF:-1 tvg-id="" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 1) ONETORO
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/55943
+#EXTINF:-1 tvg-id="" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 2) ONETORO
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/56010
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES",ES: M+ ACCIÓN
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5632
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE & SERIES",ES: M+ COMEDIA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5636
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE & SERIES",ES: M+ CINE ESPAÑOL
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5633
+#EXTINF:-1 tvg-id="M+ Clasicos" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES",ES: M+ CLÁSICOS
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5634
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE & SERIES",ES: M+ DRAMA
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5644
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: M+ CINE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine.png" group-title="ES | CINE & SERIES",ES: M+ CINE
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57286
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE & SERIES",ES: M+ INDIE
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/57282
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES: M+ SERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ES | CINE & SERIES",ES: M+ SERIES
+http://nchohorxp.top:8080/2271714489843160/3529dd6d51dd/5675
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/25125
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57344
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/63431
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD) DAZN LALIGA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/54668
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57359
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA",ES: DAZN LALIGA 2
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57476
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5758
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD REPUESTO) M+ LALIGA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/54535
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/54532
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) M+ LALIGA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57362
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | LALIGA",ES: M+ COPA DEL REY
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/58303
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (HD) DAZN F1
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57485
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (HD REPUESTO) DAZN F1
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57484
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN F1
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57486
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES",ES: (FHD REPUESTO) DAZN F1
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57483
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57560
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57356
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/54531
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57363
+#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/58116
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5664
+#EXTINF:-1 tvg-id="es.MULTIFUT. 5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5666
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (FHD) DAZN 1
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5589
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES",ES: (HD) DAZN 1
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57475
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES",ES: DAZN 2
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5590
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DEPORTES",ES: DAZN 3
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5591
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES",ES: DAZN 4
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5592
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV BAR
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5661
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/25128
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 2
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/25953
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 3
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/25954
+#EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 3
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5652
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5651
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (FHD) M+ DEPORTES
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5643
+#EXTINF:-1 tvg-id="es.MultiDeporte" tvg-name="ES: (HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (HD) M+ DEPORTES
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57481
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 2
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5639
+#EXTINF:-1 tvg-id="M.Deportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 3
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5640
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 5
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5681
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 6
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5682
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 7
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5683
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES",ES: EUROSPORT 1
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5607
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="ES | DEPORTES",ES: EUROSPORT 2
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5608
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5630
+#EXTINF:-1 tvg-id="" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 1) ONETORO
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/55943
+#EXTINF:-1 tvg-id="" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 2) ONETORO
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/56010
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="ES | DEPORTES",ES: ESPN DEPORTES
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5605
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: MOVISTAR PLUS+" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CULTURA",ES: MOVISTAR PLUS+
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57285
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES",ES: M+ ACCIÓN
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5632
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE & SERIES",ES: M+ COMEDIA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5636
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE & SERIES",ES: M+ CINE ESPAÑOL
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5633
+#EXTINF:-1 tvg-id="M+ Clasicos" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES",ES: M+ CLÁSICOS
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5634
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE & SERIES",ES: M+ DRAMA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5644
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE & SERIES",ES: M+ INDIE
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/57282
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES: M+ SERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ES | CINE & SERIES",ES: M+ SERIES
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/5675
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE & SERIES",ES: M+ ESTRENOS
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/58330
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ HITS" tvg-logo="" group-title="ES | MUSICA",ES: M+ HITS
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/58881
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN" tvg-logo="https://docdog.top/logo/countries/latino/espn.png" group-title="LAME | LATINO",LA: ESPN
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/18516
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN" tvg-logo="https://docdog.top/logo/countries/mexico/espn.png" group-title="LAME | MEXICO",MEX: ESPN
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/52524
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN EXTRA" tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png" group-title="LAME | MEXICO",MEX: ESPN EXTRA
+http://ex218.nahknpq.top:8080/8951742458330698/4c9fe7d19303/52525
