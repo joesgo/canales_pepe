@@ -1,3 +1,4 @@
+
 name: Actualizar IPTV automáticamente
 
 on:
@@ -18,8 +19,11 @@ jobs:
         with:
           python-version: '3.10'
       
-      - name: Instalar iptv-api
-        run: pip install iptv-api
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install iptv-api
       
       - name: Ejecutar iptv-api
         run: iptv-api --config config.yaml --output lista_combo.m3u
