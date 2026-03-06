@@ -1,59 +1,29 @@
 # Configuración de iptv-api para canales_pepe
 # Se actualiza automáticamente cada 6 horas
-
+# Configuración de iptv-api
 settings:
-  update_interval: 6  # horas
-  temp_dir: "/tmp/iptv-api"
-  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  timeout: 10
+  user_agent: "Mozilla/5.0"
 
-# Fuentes de canales (TUS LISTAS DE CONFIANZA)
+# Fuentes de canales (TUS LISTAS)
 sources:
   - name: "Lista buena"
     url: "https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u"
-    enabled: true
-    
   - name: "Backup Jose1"
     url: "https://raw.githubusercontent.com/joesgo/canales_pepe/main/backups/jose1.m3u"
-    enabled: true
-    
   - name: "Backup Jose2"
     url: "https://raw.githubusercontent.com/joesgo/canales_pepe/main/backups/jose2.m3u"
-    enabled: true
-    
   - name: "Backup Jose3"
     url: "https://raw.githubusercontent.com/joesgo/canales_pepe/main/backups/jose3.m3u"
-    enabled: true
-    
   - name: "Fuente externa"
     url: "http://pwhtte.top:8080/get.php?username=4281741979595696&password=0abf1897c237&type=m3u_plus"
-    enabled: true
 
-# Configuración de validación de canales
-validation:
-  timeout: 10  # segundos de espera por canal
-  verify_ssl: false
-  min_speed: 0.5  # Mbps mínimos
-  max_redirects: 5
-  retries: 2
-
-# Filtrado de canales (lo que te interesa conservar)
+# Filtros
 filters:
-  remove_duplicates: true  # Elimina canales repetidos
-  remove_empty: true        # Quita entradas sin URL
-  
-  # Palabras clave para INCLUIR (lo que SÍ quieres)
-  include_keywords: []      # Vacío = todo vale
-  
-  # Palabras clave para EXCLUIR (lo que NO quieres)
-  exclude_keywords:
-    - "XXX"
-    - "adult"
-    - "porn"
-    - "sex"
+  remove_duplicates: true
+  exclude_keywords: ["xxx", "adult", "porn"]
 
-# Salida final
+# Salida
 output:
   format: m3u
   filename: "lista_combo.m3u"
-  include_epg: false
-  epg_filename: "epg.xml"
