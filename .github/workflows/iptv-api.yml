@@ -1,0 +1,33 @@
+name: Actualizar IPTV automáticamente
+
+on:
+  schedule:
+    # Se ejecuta cada 6 horas (a las 0, 6, 12, 18 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Permite ejecución manual
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+      
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Instalar iptv-api
+        run: pip install iptv-api
+      
+      - name: Ejecutar iptv-api
+        run: iptv-api --config config.yaml --output lista_combo.m3u
+      
+      - name: Commit y push de los cambios
+        run: |
+          git config --global user.name "joesgo"
+          git config --global user.email "joesgo5559@gmail.com"
+          git add lista_combo.m3u
+          git diff --quiet && git diff --staged --quiet || git commit -m "Actualización automática $(date)"
+          git push
