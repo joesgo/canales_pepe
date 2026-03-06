@@ -1,5 +1,5 @@
-# Configuración de iptv-api para canales_pepe
 # Se actualiza automáticamente cada 6 horas
+# Configuración de iptv-api
 # Configuración de iptv-api
 settings:
   timeout: 10
@@ -27,3 +27,4 @@ filters:
 output:
   format: m3u
   filename: "lista_combo.m3u"
+
