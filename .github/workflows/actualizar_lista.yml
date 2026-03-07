@@ -52,6 +52,7 @@ EOF
       - name: Ejecutar script de curado
         run: python curar_lista.py
       
+      
       - name: Subir cambios
         run: |
           git config --global user.name "joesgo"
@@ -59,3 +60,5 @@ EOF
           git add lista_combo.m3u
           git diff --quiet && git diff --staged --quiet || git commit -m "Actualización automática $(date)"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
