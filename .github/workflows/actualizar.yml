@@ -1,0 +1,19 @@
+name: Actualizar Lista
+
+on:
+  workflow_dispatch:
+
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+      
+      - name: Ver archivos
+        run: |
+          echo "✅ Archivos en el repositorio:"
+          ls -la
+          echo ""
+          echo "✅ Contenido de fuentes.txt:"
+          cat fuentes.txt
