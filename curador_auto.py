@@ -1,4 +1,3 @@
-# Script curador
 import requests
 import os
 
