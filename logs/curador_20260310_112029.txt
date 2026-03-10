@@ -1,0 +1,171 @@
+CURADOR - 2026-03-10 11:20:31.366981
+==================================================
+
+OK Encontrado: #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD) DAZN LALIGA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) DAZN LALIGA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | LALIGA VIP",ES: DAZN LALIGA 2
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD) M+ LALIGA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (HD REPUESTO) M+ LALIGA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD REPUESTO) M+ LALIGA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (HD) DAZN F1
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN F1
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="es.MULTIFUT. 5" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="es.Multifútbol 7" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="es.Multifútbol 8" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="LigaCampe9" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="LigaCampe11" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="LigaCampe12" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="LigaCampe13" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (FHD) DAZN 1
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DEPORTES VIP",ES: (HD) DAZN 1
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DEPORTES VIP",ES: DAZN 2
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DEPORTES VIP",ES: DAZN 4
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION 2
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA VIP",ES: LALIGA TV HYPERMOTION 3
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA VIP",ES: (FHD) M+ LALIGA TV 3
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA VIP",ES: M+ LALIGA TV 4
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="0" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ DEPORTES
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES VIP",ES: (HD) M+ DEPORTES
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 2
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 5
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 6
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES VIP",ES: M+ DEPORTES 7
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES VIP",ES: EUROSPORT 1
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 1) ONETORO
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS VIP",ES: TOROLE TV
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="ES | DEPORTES VIP",ES: ESPN DEPORTES
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="GOL.es" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ES | DEPORTES VIP",ES: GOL PLAY
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: CANAL SUR ANDALUCÍA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | REGIONAL VIP",ES: CANAL SUR ANDALUCÍA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="0" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | CULTURA VIP",ES: CAZA Y PESCA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES VIP",ES: M+ ACCIÓN
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="M+ Cine Espanol" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE & SERIES VIP",ES: M+ CINE ESPAÑOL
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="M+ Clasicos" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES VIP",ES: M+ CLÁSICOS
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE & SERIES VIP",ES: M+ INDIE
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | CINE & SERIES VIP",ES: M+ HITS
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="ES | TOP CANALES VIP",ES: CASTILLA LA MANCHA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE & SERIES VIP",ES: M+ ESTRENOS
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA VIP",ES: IBERALIA 100% PESCA
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
+OK Encontrado: #EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | CINE & SERIES VIP",ES: M+ HITS
+   Fuente: https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+
