@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_buena.m3u
+https://raw.githubusercontent.com/joesgo/canales_pepe/main/backups/jose1.m3u
+https://raw.githubusercontent.com/joesgo/canales_pepe/main/backups/jose2.m3u
+https://raw.githubusercontent.com/joesgo/canales_pepe/main/backups/jose3.m3u
+http://pwhtte.top:8080/get.php?username=4281741979595696&password=0abf1897c237&type=m3u_plus
