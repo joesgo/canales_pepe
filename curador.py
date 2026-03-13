@@ -1,121 +1,101 @@
 import requests
-import re
 import os
-from datetime import datetime
+import re
 
-# --- CONFIGURACION ---
-ARCHIVO_FUENTES = "fuentes.txt"
-ARCHIVO_SALIDA = "lista_combo.m3u"
-URL_PRINCIPAL = "https://raw.githubusercontent.com/joesgo/canales_pepe/main/lista_combo.m3u"
-# ---------------------
+print("="*60)
+print("CURADOR DE CANALES - Version sin emojis")
+print("="*60)
 
-print("INICIANDO PROCESO DE CURADO AUTOMATICO...")
-print("="*50)
+# Archivos
+LISTA_PRINCIPAL = "lista_combo.m3u"
+FUENTES = "fuentes.txt"
+SALIDA = "lista_combo_nueva.m3u"
 
-# Crear carpeta logs si no existe
-if not os.path.exists("logs"):
-    os.makedirs("logs")
-
-# Archivo de log con timestamp
-timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-log_file = f"logs/curador_{timestamp}.txt"
-
-# 1. Descargar la lista principal
-print("Descargando lista principal...")
+# 1. Leer lista principal
 try:
-    respuesta_principal = requests.get(URL_PRINCIPAL, timeout=10)
-    lineas_principales = respuesta_principal.text.splitlines()
-    print(f"   OK - Descargada ({len(lineas_principales)} lineas)")
-except Exception as e:
-    print(f"ERROR al descargar: {e}")
-    input("\nPresiona ENTER para salir...")
+    with open(LISTA_PRINCIPAL, 'r', encoding='utf-8') as f:
+        lineas = f.readlines()
+except:
+    print("ERROR: No se encuentra lista_combo.m3u")
     exit()
 
-# 2. Extraer nombres de canales
-canales_a_buscar = []
-for linea in lineas_principales:
+# Extraer nombres
+nombres_originales = []
+for linea in lineas:
     if linea.startswith("#EXTINF:"):
-        partes = linea.split(",")
-        if len(partes) > 1:
-            canales_a_buscar.append(partes[-1].strip())
+        nombre = linea.strip().split(",")[-1]
+        nombres_originales.append(nombre)
 
-print(f"Buscando reemplazo para {len(canales_a_buscar)} canales")
+print(f"\nCanales que quieres: {len(nombres_originales)}")
 
-# 3. Leer fuentes
+# 2. Leer fuentes
 try:
-    with open(ARCHIVO_FUENTES, 'r') as f:
-        urls_fuente = [linea.strip() for linea in f if linea.strip()]
-    print(f"Usando {len(urls_fuente)} listas de repuesto:")
-    for url in urls_fuente:
-        print(f"   - {url}")
-except FileNotFoundError:
-    print(f"ERROR: No se encuentra el archivo {ARCHIVO_FUENTES}")
-    input("\nPresiona ENTER para salir...")
+    with open(FUENTES, 'r', encoding='utf-8') as f:
+        urls = [linea.strip() for linea in f if linea.strip()]
+    print(f"Fuentes: {len(urls)}")
+except:
+    print("ERROR: No se encuentra fuentes.txt")
     exit()
 
-print()
+# 3. Función para limpiar nombres
+def limpiar_nombre(nombre):
+    nombre = nombre.lower()
+    nombre = re.sub(r'\bes:?\s*|\bhd\b|\bfhd\b|\bsd\b|\b1080p\b|\b720p\b|\([^)]*\)', '', nombre)
+    nombre = re.sub(r'\s+', ' ', nombre).strip()
+    return nombre
 
-# 4. Buscar reemplazos
-canales_encontrados = 0
-canales_no_encontrados = []
+# 4. Buscar coincidencias
+print("\nBuscando coincidencias...")
+encontrados = 0
+no_encontrados = []
 
-with open(log_file, 'w', encoding='utf-8') as log:
-    log.write(f"CURADOR - {datetime.now()}\n")
-    log.write("="*50 + "\n\n")
+with open(SALIDA, 'w', encoding='utf-8') as out:
+    out.write("#EXTM3U\n")
     
-    with open(ARCHIVO_SALIDA, 'w', encoding='utf-8') as salida:
+    for idx, nombre in enumerate(nombres_originales, 1):
+        nombre_limpio = limpiar_nombre(nombre)
+        print(f"\n  [{idx}/{len(nombres_originales)}] {nombre[:40]}")
+        print(f"     Buscando: '{nombre_limpio}'")
         
-        for i, canal_buscado in enumerate(canales_a_buscar, 1):
-            print(f"  [{i}/{len(canales_a_buscar)}] Buscando '{canal_buscado[:30]}...'", end=" ")
-            encontrado = False
-            
-            for url_fuente in urls_fuente:
-                if encontrado:
-                    break
-                try:
-                    respuesta_fuente = requests.get(url_fuente, timeout=5)
-                    lineas_fuente = respuesta_fuente.text.splitlines()
-                    
-                    j = 0
-                    while j < len(lineas_fuente):
-                        linea = lineas_fuente[j]
-                        if linea.startswith("#EXTINF:") and canal_buscado in linea:
-                            salida.write(linea + "\n")
-                            if j+1 < len(lineas_fuente):
-                                salida.write(lineas_fuente[j+1] + "\n")
-                            encontrado = True
-                            canales_encontrados += 1
-                            log.write(f"OK Encontrado: {linea}\n")
-                            log.write(f"   Fuente: {url_fuente}\n\n")
-                            break
-                        j += 1
-                except Exception as e:
-                    log.write(f"Error con {url_fuente}: {e}\n")
+        hallado = False
+        for url in urls:
+            try:
+                r = requests.get(url, timeout=5)
+                if r.status_code != 200:
                     continue
-            
-            if encontrado:
-                print("OK")
-            else:
-                print("NO ENCONTRADO")
-                canales_no_encontrados.append(canal_buscado)
-                log.write(f"NO Encontrado: {canal_buscado}\n\n")
+                lineas_fuente = r.text.splitlines()
+                
+                for i, linea in enumerate(lineas_fuente):
+                    if linea.startswith("#EXTINF:"):
+                        if nombre_limpio in linea.lower():
+                            out.write(linea + "\n")
+                            if i+1 < len(lineas_fuente):
+                                out.write(lineas_fuente[i+1] + "\n")
+                            hallado = True
+                            encontrados += 1
+                            print(f"     ENCONTRADO en: {url}")
+                            break
+                if hallado:
+                    break
+            except:
+                continue
+        
+        if not hallado:
+            no_encontrados.append(nombre)
+            print(f"     NO ENCONTRADO")
 
-# 5. Resumen final
-print("\n" + "="*50)
-print("PROCESO COMPLETADO")
-print("="*50)
-print(f"Canales procesados: {len(canales_a_buscar)}")
-print(f"Canales encontrados: {canales_encontrados}")
-print(f"Canales no encontrados: {len(canales_no_encontrados)}")
-print(f"Nueva lista guardada en: {ARCHIVO_SALIDA}")
-print(f"Log guardado en: {log_file}")
-print("="*50)
+# 5. Reemplazar lista antigua
+os.replace(SALIDA, LISTA_PRINCIPAL)
 
-if canales_no_encontrados:
-    print("\nCanales que NO se encontraron (primeros 10):")
-    for canal in canales_no_encontrados[:10]:
-        print(f"   - {canal}")
-    if len(canales_no_encontrados) > 10:
-        print(f"   ... y {len(canales_no_encontrados)-10} mas")
-
+# 6. Resumen
+print("\n" + "="*60)
+print("RESUMEN")
+print("="*60)
+print(f"Canales encontrados: {encontrados}")
+print(f"Canales no encontrados: {len(no_encontrados)}")
+if no_encontrados:
+    print("\nCanales no encontrados (primeros 10):")
+    for n in no_encontrados[:10]:
+        print(f"   - {n}")
+print("="*60)
 input("\nPresiona ENTER para salir...")
