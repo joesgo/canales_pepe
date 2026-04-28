@@ -545,6 +545,7 @@ http://ultrapremium.cloud:8080/975428933tv1/j57upxswha/74526.m3u8
 http://ultrapremium.cloud:8080/975428933tv1/j57upxswha/74527.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 10
 http://ultrapremium.cloud:8080/975428933tv1/j57upxswha/74528.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Canaria" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="GENERALISTAS",ES: TV Canaria
+http://ultrapremium.cloud:8080/975428933tv1/j57upxswha/76207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MOTOGP FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_MOTOGP.png" group-title="DAZN DEPORTES",ES: DAZN MOTOGP FHD
 http://ultrapremium.cloud:8080/975428933tv1/j57upxswha/76208.m3u8
